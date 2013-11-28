@@ -6,7 +6,7 @@ body {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 13px;
     line-height: 1.5;
-    background: #222;
+    background: #DDCCA6;
     color: #fff;
 }
 
@@ -150,4 +150,6 @@ input[type="submit"]:active {
     border-radius: 10px;
 }
 
-header {background:#333; font-size:1.5em; text-align: center; padding:10px;}
+header {background:#69410E; font-size:1.5em; text-align: center; padding:10px;}
+.page-inner {background: #fff; padding:10px 20px 20px; margin:35px; color:#000; font-size:1.5em; border-radius: 5px;}
+.intro {margin-top:100px;}
